@@ -5,5 +5,7 @@ El principio de este repositorio es albergar las ideas de posibles soluciones a 
 Para más información sobre el desarrollo de tecnologías en el ámbito de museos bajo el espíritu colaborativo ver
 [Tecnologías digitales y actitud copyleft. De la programación al arte](https://revistas.elpoli.edu.co/index.php/luc/article/view/883) e [Introducción general al trabajo colectivo en el arte moderno](https://studylib.es/doc/5678695/introducci%C3%B3n-general-al-trabajo-colectivo-en-el-arte-moderno).
 
+_Palabras clave: museos, copyleft, tecnología_
+
 # Lluvia de ideas
 
