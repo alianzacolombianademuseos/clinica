@@ -9,3 +9,6 @@ _Palabras clave: museos, copyleft, tecnología_
 
 # Lluvia de ideas
 
+## [Análisis estadístico](#)
+
+
