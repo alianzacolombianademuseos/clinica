@@ -11,4 +11,5 @@ _Palabras clave: museos, copyleft, tecnología_
 
 ## [Análisis estadístico](#)
 
+Repositorio de fuentes de datos del sector museos y proyectos de analítica de datos.
 
