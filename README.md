@@ -8,8 +8,3 @@ Para más información sobre el desarrollo de tecnologías en el ámbito de muse
 _Palabras clave: museos, copyleft, tecnología_
 
 # Lluvia de ideas
-
-## [Análisis estadístico](#)
-
-Repositorio de fuentes de datos del sector museos y proyectos de analítica de datos.
-
