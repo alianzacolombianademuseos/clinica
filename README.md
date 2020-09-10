@@ -7,3 +7,5 @@ El principio de este repositorio es albergar las ideas de posibles soluciones a 
 _Palabras clave: museos, copyleft, tecnología_
 
 # Lluvia de ideas
+
+- Archivos, derechos humanos y lugares de memoria
